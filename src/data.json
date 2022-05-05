@@ -1,0 +1,48 @@
+{
+    "AdoptingSite": [
+        "https://puppies.com/",
+        "https://www.puppiesforsale.com/",
+        "https://www.dogsforsale.com/"
+    ],
+    "Experiences": [{
+            "companyName": "Demo1 Technologies",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+            "url": "https://www.google.com/",
+            "roles": [{
+                "title": "Full Stack Developer",
+                "description": "Built and updated various Chrome Extensions.",
+                "startDate": "2017-01-01",
+                "endDate": "2017-05-01",
+                "location": "New York, USA"
+            }]
+        },
+        {
+            "companyName": "Demo2 Technologies",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/a/ac/No_image_available.svg",
+            "url": "https://www.google.com/",
+            "roles": [{
+                "title": "UI Designer",
+                "description": "Design user-friendly web page",
+                "startDate": "2016-05-01",
+                "endDate": "2016-09-01",
+                "location": "Beijing, China"
+            }]
+        }
+    ],
+    "Breed": [{
+        "Area": "Type of dogs",
+        "Kind": [{
+                "Name": "Maltipoo",
+                "Hot": true
+            },
+            {
+                "Name": "Cavipoo",
+                "Hot": false
+            },
+            {
+                "Name": "Pomsky",
+                "Hot": false
+            }
+        ]
+    }]
+}
